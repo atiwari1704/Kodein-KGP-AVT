@@ -1,0 +1,116 @@
+* {
+    background-color: rgb(1, 1, 25);
+    padding: 0;
+    margin: 0;
+}
+
+.name {
+    color: white;
+    vertical-align: middle;
+    margin-left: 1%;
+    font-size: 1.4rem;
+}
+
+.nav {
+    color: white;
+    padding: 8px;
+}
+
+.navbar {
+    display: flex;
+    margin-top: 2%;
+}
+
+ul {
+    display: flex;
+    margin-left: 500%;
+}
+
+li {
+    list-style: none;
+}
+
+.nav_link {
+    color: white;
+    text-decoration: none;
+    margin: 15%;
+}
+
+.intro {
+    float: left;
+}
+
+.heading {
+    color: white;
+    padding: 30px 10px 5px 30px;
+    max-width: 50vmax;
+    font-size: 40px;
+}
+
+.heading2 {
+    color: rgb(11, 251, 243);
+    padding: 0px 100px 30px 30px;
+    max-width: 50vmax;
+    font-size: 40px;
+}
+
+.heading3 {
+    color: rgb(187, 215, 214);
+    padding: 10px 30px;
+    max-width: 50vmax;
+}
+
+.heading4 {
+    color: rgb(255, 255, 255);
+    padding: 10px 30px;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 50vmax;
+    line-height: 1.5;
+}
+
+.capsules {
+    padding: 0 28px 0 14px;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 0px 60px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: aqua;
+    margin: 10px;
+}
+
+.capsule-content {
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    padding-left: 8%;
+}
+
+.heading5 {
+    color: aqua;
+    padding: 30px 10px 5px 30px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.image {
+    padding: 5px;
+}
+
+.footer_content1 {
+    color: white;
+    padding: 10px;
+    text-align: left;
+}
+
+
+.footer_content2 {
+    color: white;
+    padding: 10px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 20vmax
+}
+hr{
+    border-color: rgb(207, 207, 207);
+    margin: 2% 0;
+}
